@@ -21,11 +21,17 @@ Scaffolded documentation baseline created on 2026-03-23.
 
 ## Tech Stack
 
-TBD: Add framework/runtime/package manager details.
+- Runtime: Node.js (LTS)
+- Package manager: Yarn
+- App framework: TBD
 
 ## Scripts
 
-TBD: Add development, build, lint, and test scripts.
+Use Yarn scripts:
+
+- `yarn dev`
+- `yarn build`
+- `yarn test`
 
 ## License
 
